@@ -73,6 +73,16 @@
       font-style: italic;
       color: #6a4b34;
     }
+    .message-box {
+      background: #f2e5d5;
+      padding: 20px;
+      border-radius: 12px;
+      margin-top: 30px;
+      border-left: 6px solid #c8a57b;
+    }
+    .message-box p {
+      margin-bottom: 10px;
+    }
   </style>
 </head>
 <body>
@@ -106,6 +116,13 @@
 
 <h2>Rutinitas Harian (Rangkuman)</h2>
 <p>Bangun pagi, hafalan, olahraga, kerja/kegiatan harian, evaluasi hafalan dan pemasukan, tidur cukup. Weekend digunakan untuk refleksi, evaluasi, dan persiapan minggu depan.</p>
+
+<h2>Pesan dari Antika</h2>
+<div class="message-box">
+  <p><strong>“Apapun yang Kaka rasa mulai sekarang coba jangan dipendem sendiri, belajar cerita ke temen deket, guru, atau aku pun bisa. Walaupun cerita nggak nyelesain masalah, setidaknya ada lega dikit atau solusi buat pertimbangan.”</strong></p>
+  <p><strong>“Kalau sedih ya sedih, seneng ya seneng.”</strong></p>
+  <p><strong>“Kaka itu hebat tau, di negara orang masih semangat nuntut ilmu. Nggak semua orang dikasih kesempatan atau takdir kayak Kaka. Kalau lagi futur, istirahat sebentar nggak apa-apa, tapi harus semangat lagi. Aku selalu bangga.”</strong></p>
+</div>
 
 <h2>Refleksi Tentang Antika</h2>
 <p>Merelakan tidak selalu berarti harus mencari orang baru. Kadang, istirahat untuk memulihkan diri jauh lebih bijak. Mencintai dalam diam, dan tumbuh menjadi pribadi yang lebih kuat.</p>
