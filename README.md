@@ -1,21 +1,74 @@
-# Catatan-hati-kecil
 <!DOCTYPE html><html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Catatan Perjalanan Hati</title>
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700&display=swap" rel="stylesheet">
   <style>
-    body { font-family: Arial, sans-serif; background: #f7f7f7; padding: 20px; line-height: 1.6; }
-    .container { max-width: 800px; margin: auto; background: white; padding: 30px; border-radius: 10px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
-    h1 { text-align: center; color: #333; }
-    h2 { color: #555; margin-top: 40px; }
-    p { margin-bottom: 15px; }
-    .quote { font-style: italic; color: #777; border-left: 3px solid #ccc; padding-left: 15px; margin: 20px 0; }
+    body {
+      font-family: 'Poppins', sans-serif;
+      background: linear-gradient(to bottom, #f5e9dc, #f0d8c5);
+      padding: 20px;
+      line-height: 1.6;
+      color: #5c4b3c;
+    }
+    .container {
+      max-width: 800px;
+      margin: auto;
+      background: #fffaf5;
+      padding: 30px;
+      border-radius: 15px;
+      box-shadow: 0 10px 20px rgba(115, 95, 75, 0.2);
+    }
+    h1 {
+      text-align: center;
+      color: #8b5e3c;
+      font-size: 2.5em;
+    }
+    h2 {
+      color: #a67c52;
+      margin-top: 40px;
+    }
+    p {
+      margin-bottom: 15px;
+    }
+    ul {
+      background: #f7ede4;
+      padding: 15px;
+      border-radius: 10px;
+    }
+    li {
+      margin-bottom: 10px;
+    }
+    .quote {
+      font-style: italic;
+      color: #7b5e44;
+      border-left: 4px solid #d6bfa9;
+      padding-left: 15px;
+      margin: 20px 0;
+      background: #f7ede4;
+      border-radius: 8px;
+    }
+    strong {
+      color: #8b5e3c;
+    }
+    .whale {
+      text-align: center;
+      margin: 40px 0;
+    }
+    .whale img {
+      width: 120px;
+    }
   </style>
 </head>
 <body>
   <div class="container">
-    <h1>Catatan Perjalanan Hati</h1><h2>Antara Harapan dan Kenyataan</h2>
+    <h1>Catatan Perjalanan Hati</h1><div class="whale">
+  <img src="https://cdn.pixabay.com/photo/2021/05/27/07/46/whale-6287667_1280.png" alt="Paus Biru yang Lucu">
+  <p><em>Untuk Antika yang suka paus biru dan coklat susu.</em></p>
+</div>
+
+<h2>Antara Harapan dan Kenyataan</h2>
 <p>Kisah ini dimulai dari perasaan tulus kepada seseorang bernama Antika, seorang perempuan ceria, semangat, dan rendah hati. Meski hubungan ini hanya terjalin lewat dunia digital, rasa yang tumbuh terasa nyata. Dua hingga tiga tahun saling mengenal, tumbuh harapan untuk melangkah ke jenjang lebih serius.</p>
 
 <h2>Ketika Harapan Tak Selalu Bersambut</h2>
