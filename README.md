@@ -59,6 +59,20 @@
     .whale img {
       width: 120px;
     }
+    .gallery {
+      text-align: center;
+      margin: 40px 0;
+    }
+    .gallery img {
+      width: 200px;
+      border-radius: 15px;
+      box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+    }
+    .caption {
+      margin-top: 10px;
+      font-style: italic;
+      color: #6a4b34;
+    }
   </style>
 </head>
 <body>
@@ -66,6 +80,11 @@
     <h1>Catatan Perjalanan Hati</h1><div class="whale">
   <img src="https://cdn.pixabay.com/photo/2021/05/27/07/46/whale-6287667_1280.png" alt="Paus Biru yang Lucu">
   <p><em>Untuk Antika yang suka paus biru dan coklat susu.</em></p>
+</div>
+
+<div class="gallery">
+  <img src="https://images.unsplash.com/photo-1529626455594-4ff0802cfb7e" alt="Foto Antika">
+  <div class="caption">Senyumnya sederhana, tapi artinya luas—seperti lautan yang disukai paus biru.</div>
 </div>
 
 <h2>Antara Harapan dan Kenyataan</h2>
