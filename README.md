@@ -88,7 +88,7 @@
 <body>
   <div class="container">
     <h1>Catatan Perjalanan Hati</h1><div class="whale">
-  <img src="https://cdn.pixabay.com/photo/2021/05/27/07/46/whale-6287667_1280.png" alt="Paus Biru yang Lucu">
+  <img src="59986834_9400_5_09.jpg" alt="Paus Biru yang Lucu">
   <p><em>Untuk Antika yang suka paus biru dan coklat susu.</em></p>
 </div>
 
