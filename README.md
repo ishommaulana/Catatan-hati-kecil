@@ -93,7 +93,7 @@
 </div>
 
 <div class="gallery">
-  <img src="file-Md9Xuc5cb8jQX9xXBdV29Q" alt="Foto Antika">
+  <img src="IMG-20240913-WA0008.jpg" alt="Foto Antika">
   <div class="caption">Senyumnya sederhana, tapi artinya luas—seperti lautan yang disukai paus biru.</div>
 </div>
 
